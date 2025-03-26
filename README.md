@@ -40,8 +40,6 @@
 
 ###
 
-<div align="center">
-  <img height="165" src="https://i.gifer.com/GXjW.gif"  />
-</div>
+<img align="left" height="165" src="https://i.gifer.com/GXjW.gif"  />
 
 ###
