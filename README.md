@@ -40,10 +40,8 @@
 
 ###
 
-<img align="right" height="100" src="https://i.gifer.com/GXjW.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/GNS77/GNS77/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="165" src="https://i.gifer.com/GXjW.gif"  />
+</div>
 
 ###
